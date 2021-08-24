@@ -3,7 +3,6 @@
 import os
 import shutil
 import dotwerke
-from socket import gethostname
 
 
 class Link(dotwerke.Plugin):
